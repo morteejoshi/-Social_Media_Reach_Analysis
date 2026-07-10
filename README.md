@@ -5,7 +5,6 @@ Analyze Instagram engagement data and identify factors affecting post performanc
 
 ## Tools Used
 - LibreOffice Calc
-- Excel
 - GitHub
 
 ## KPIs
