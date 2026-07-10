@@ -25,3 +25,6 @@ Analyze Instagram engagement data and identify factors affecting post performanc
 
 ## Dashboard
 Dashboard screenshot included in repository.
+ 
+ ##Dashboard Preview
+ ![Dashboard_Final.png]
